@@ -1,5 +1,5 @@
 # COVID-19 Detection
-COVID-19 Detection Using Chest X-Ray Images
+COVID-19 Detection Using Chest X-Ray Images and Deep Convolutional Neural Networks
 
 # Distribution of Dataset:
 
