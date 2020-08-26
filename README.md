@@ -8,3 +8,9 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (Normal Chest X-Ra
 
 # Citation:
 
+@article{narin2020automatic,
+  title={Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep Convolutional Neural Networks},
+  author={Narin, Ali and Kaya, Ceren and Pamuk, Ziynet},
+  journal={arXiv preprint arXiv:2003.10849},
+  year={2020}
+}
